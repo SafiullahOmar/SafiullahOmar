@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, i am Safiullah Omar Welcome to my software development portfolio! </h1>
+<h1 align="center">Hi 👋, i am Safiullah Omar ! </h1>
 
-<h3 align="center">A Software Enginner living in Germany</h3>
-<h4> a passionate full-stack developer with expertise in building robust web applications using a wide range of technologies. With a strong focus on C#, TypeScript, ASP.NET core , Asp.NET MVC, Angular, JavaScript, and MS SQL Server, I bring a versatile skill set to every project.
+<h4 align="center">A Software Enginner living in Germany</h4>
+<h5> a passionate full-stack developer with expertise in building robust web applications using a wide range of technologies. With a strong focus on C#, TypeScript, ASP.NET core , Asp.NET MVC, Angular, JavaScript, and MS SQL Server, I bring a versatile skill set to every project.
 
 Throughout my career, I have successfully completed numerous software development projects that highlight my technical prowess and problem-solving abilities. From building scalable back-end systems to crafting intuitive user interfaces, I have gained valuable experience in various aspects of software development.
 
@@ -10,7 +10,7 @@ On this page, you will find a carefully curated selection of my projects that sh
 Feel free to explore my repositories and dive into the code to get a better understanding of my approach to software development. Additionally, you can visit the live demos to experience the projects in action and witness the seamless integration of cutting-edge technologies.
 
 
-Thank you for visiting my portfolio, and I hope you find my work interesting and informative! If you have any questions or would like to discuss potential collaborations, please feel free to reach out. Let's create something amazing together</h4>
+Thank you for visiting my portfolio, and I hope you find my work interesting and informative! If you have any questions or would like to discuss potential collaborations, please feel free to reach out. Let's create something amazing together</h5>
 
 <img align='right' alt='Coding' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
