@@ -12,7 +12,7 @@ Feel free to explore my repositories and dive into the code to get a better unde
 
 Thank you for visiting my portfolio, and I hope you find my work interesting and informative! If you have any questions or would like to discuss potential collaborations, please feel free to reach out. Let's create something amazing together</h5>
 
-<img align='right' alt='Coding' width='100px' height='100px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<img align='right' alt='Coding' width='600px' height='400px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiullahomar&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahomar" /> </p>
 
